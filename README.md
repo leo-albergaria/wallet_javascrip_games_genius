@@ -1,7 +1,7 @@
-<p><img src="imagem" align="left" height="150px" width="150px">
-    <h1># Título</h1> 
+<p><img src="https://user-images.githubusercontent.com/63436406/144719320-4bb540f3-bc30-48ce-964e-a30a20516f99.png" align="left" height="150px" width="150px">
+    <h1># Criando seu jogo de memória estilo Genius</h1> 
     <p align="justify">
-    Você digitar texto aqui.
+    Nesse projeto, o desagio será criar um jogo Gênesis utilizando apenas HTML, CSS e JavaScript. 
     </p>
 </p>      
 
